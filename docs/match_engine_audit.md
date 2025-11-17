@@ -163,3 +163,24 @@
 - [2026-05-10T16:58:54Z] perf(kernel): vectorize sparse matrix multiplication for similarity lookup
 - [2026-05-10T17:35:34Z] feat(metrics): track p99 tail latency across service boundary
 - [2026-05-10T17:26:55Z] test(boundary): fuzz input validation for malformed network frames
+
+
+### Sprint Milestone: 2025-11-17 (Target Tier 3)
+- [2025-11-17T04:54:37Z] feat(engine): add vectorized SIMD kernel for dot product calculation
+- [2025-11-17T04:49:56Z] perf(cache): implement adaptive two-queue eviction algorithm
+- [2025-11-17T05:12:06Z] test(concurrency): stress-test actor mailbox under 50k sustained msg/s
+- [2025-11-17T06:21:03Z] refactor(pipeline): extract non-blocking work-stealing threadpool
+- [2025-11-17T07:11:30Z] feat(metrics): export percentile latency histograms for internal RPCs
+- [2025-11-17T07:19:19Z] perf(alloc): replace dynamic heap allocations with arena bump allocator
+- [2025-11-17T08:16:36Z] fix(circuit-breaker): tune backoff exponential jitter to prevent thundering herd
+- [2025-11-17T09:34:39Z] feat(storage): implement append-only commit log with CRC32 checksums
+- [2025-11-17T10:15:49Z] test(chaos): verify raft consensus under network partition and clock drift
+- [2025-11-17T11:41:15Z] perf(query): push down projection and filter predicates to parquet reader
+- [2025-11-17T11:56:47Z] refactor(wal): stream write-ahead log directly into memory mapped segment
+- [2025-11-17T12:03:55Z] feat(crypto): implement constant-time comparison for HMAC authentication
+- [2025-11-17T13:34:49Z] fix(gc): eliminate root reference leak in transient session context
+- [2025-11-17T14:01:06Z] perf(dispatch): replace dynamic lookup table with computed branch table
+- [2025-11-17T14:31:14Z] test(fuzz): add property-based fuzz testing for protobuf frame parser
+- [2025-11-17T15:37:56Z] feat(routing): add weighted least-connections balancer with health probing
+- [2025-11-17T16:01:33Z] refactor(buffer): optimize zero-copy ring buffer with memory barrier fences
+- [2025-11-17T17:47:41Z] fix(timeout): decouple deadline cancellation from synchronous cleanup hook
