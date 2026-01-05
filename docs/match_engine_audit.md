@@ -283,3 +283,16 @@
 - [2026-01-08T15:50:46Z] test(fuzz): add property-based fuzz testing for protobuf frame parser
 - [2026-01-08T16:36:58Z] feat(routing): add weighted least-connections balancer with health probing
 - [2026-01-08T17:17:41Z] refactor(buffer): optimize zero-copy ring buffer with memory barrier fences
+
+
+### Sprint Milestone: 2026-01-05 (Target Tier 2)
+- [2026-01-05T04:29:05Z] fix(circuit-breaker): tune backoff exponential jitter to prevent thundering herd
+- [2026-01-05T05:47:19Z] feat(storage): implement append-only commit log with CRC32 checksums
+- [2026-01-05T06:31:12Z] test(chaos): verify raft consensus under network partition and clock drift
+- [2026-01-05T08:18:42Z] perf(query): push down projection and filter predicates to parquet reader
+- [2026-01-05T09:17:35Z] refactor(wal): stream write-ahead log directly into memory mapped segment
+- [2026-01-05T11:58:04Z] feat(crypto): implement constant-time comparison for HMAC authentication
+- [2026-01-05T12:14:17Z] fix(gc): eliminate root reference leak in transient session context
+- [2026-01-05T13:15:15Z] perf(dispatch): replace dynamic lookup table with computed branch table
+- [2026-01-05T15:15:25Z] test(fuzz): add property-based fuzz testing for protobuf frame parser
+- [2026-01-05T16:57:32Z] feat(routing): add weighted least-connections balancer with health probing
