@@ -262,3 +262,24 @@
 - [2025-12-23T13:30:13Z] fix(timeout): decouple deadline cancellation from synchronous cleanup hook
 - [2025-12-23T15:29:00Z] feat(engine): add vectorized SIMD kernel for dot product calculation
 - [2025-12-23T16:51:56Z] perf(cache): implement adaptive two-queue eviction algorithm
+
+
+### Sprint Milestone: 2026-01-08 (Target Tier 3)
+- [2026-01-08T04:03:29Z] fix(timeout): decouple deadline cancellation from synchronous cleanup hook
+- [2026-01-08T04:22:01Z] feat(engine): add vectorized SIMD kernel for dot product calculation
+- [2026-01-08T05:10:51Z] perf(cache): implement adaptive two-queue eviction algorithm
+- [2026-01-08T06:29:20Z] test(concurrency): stress-test actor mailbox under 50k sustained msg/s
+- [2026-01-08T07:56:11Z] refactor(pipeline): extract non-blocking work-stealing threadpool
+- [2026-01-08T07:47:20Z] feat(metrics): export percentile latency histograms for internal RPCs
+- [2026-01-08T08:27:06Z] perf(alloc): replace dynamic heap allocations with arena bump allocator
+- [2026-01-08T09:44:57Z] fix(circuit-breaker): tune backoff exponential jitter to prevent thundering herd
+- [2026-01-08T10:20:12Z] feat(storage): implement append-only commit log with CRC32 checksums
+- [2026-01-08T11:28:10Z] test(chaos): verify raft consensus under network partition and clock drift
+- [2026-01-08T11:04:48Z] perf(query): push down projection and filter predicates to parquet reader
+- [2026-01-08T12:43:54Z] refactor(wal): stream write-ahead log directly into memory mapped segment
+- [2026-01-08T13:05:14Z] feat(crypto): implement constant-time comparison for HMAC authentication
+- [2026-01-08T14:50:22Z] fix(gc): eliminate root reference leak in transient session context
+- [2026-01-08T14:02:21Z] perf(dispatch): replace dynamic lookup table with computed branch table
+- [2026-01-08T15:50:46Z] test(fuzz): add property-based fuzz testing for protobuf frame parser
+- [2026-01-08T16:36:58Z] feat(routing): add weighted least-connections balancer with health probing
+- [2026-01-08T17:17:41Z] refactor(buffer): optimize zero-copy ring buffer with memory barrier fences
