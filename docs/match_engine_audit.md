@@ -296,3 +296,16 @@
 - [2026-01-05T13:15:15Z] perf(dispatch): replace dynamic lookup table with computed branch table
 - [2026-01-05T15:15:25Z] test(fuzz): add property-based fuzz testing for protobuf frame parser
 - [2026-01-05T16:57:32Z] feat(routing): add weighted least-connections balancer with health probing
+
+
+### Sprint Milestone: 2026-01-30 (Target Tier 2)
+- [2026-01-30T04:58:55Z] perf(dispatch): replace dynamic lookup table with computed branch table
+- [2026-01-30T05:26:06Z] test(fuzz): add property-based fuzz testing for protobuf frame parser
+- [2026-01-30T06:09:38Z] feat(routing): add weighted least-connections balancer with health probing
+- [2026-01-30T08:22:31Z] refactor(buffer): optimize zero-copy ring buffer with memory barrier fences
+- [2026-01-30T09:14:01Z] fix(timeout): decouple deadline cancellation from synchronous cleanup hook
+- [2026-01-30T11:02:11Z] feat(engine): add vectorized SIMD kernel for dot product calculation
+- [2026-01-30T12:50:19Z] perf(cache): implement adaptive two-queue eviction algorithm
+- [2026-01-30T13:32:30Z] test(concurrency): stress-test actor mailbox under 50k sustained msg/s
+- [2026-01-30T15:40:48Z] refactor(pipeline): extract non-blocking work-stealing threadpool
+- [2026-01-30T16:08:48Z] feat(metrics): export percentile latency histograms for internal RPCs
