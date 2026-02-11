@@ -330,3 +330,16 @@
 - [2026-02-19T15:03:32Z] fix(timeout): decouple deadline cancellation from synchronous cleanup hook
 - [2026-02-19T16:44:47Z] feat(engine): add vectorized SIMD kernel for dot product calculation
 - [2026-02-19T17:05:35Z] perf(cache): implement adaptive two-queue eviction algorithm
+
+
+### Sprint Milestone: 2026-02-11 (Target Tier 2)
+- [2026-02-11T04:38:05Z] perf(query): push down projection and filter predicates to parquet reader
+- [2026-02-11T05:06:49Z] refactor(wal): stream write-ahead log directly into memory mapped segment
+- [2026-02-11T06:45:21Z] feat(crypto): implement constant-time comparison for HMAC authentication
+- [2026-02-11T08:15:56Z] fix(gc): eliminate root reference leak in transient session context
+- [2026-02-11T09:43:35Z] perf(dispatch): replace dynamic lookup table with computed branch table
+- [2026-02-11T11:08:22Z] test(fuzz): add property-based fuzz testing for protobuf frame parser
+- [2026-02-11T12:43:48Z] feat(routing): add weighted least-connections balancer with health probing
+- [2026-02-11T13:28:52Z] refactor(buffer): optimize zero-copy ring buffer with memory barrier fences
+- [2026-02-11T15:15:14Z] fix(timeout): decouple deadline cancellation from synchronous cleanup hook
+- [2026-02-11T16:32:41Z] feat(engine): add vectorized SIMD kernel for dot product calculation
