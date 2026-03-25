@@ -395,3 +395,16 @@
 - [2026-03-26T15:00:32Z] test(concurrency): stress-test actor mailbox under 50k sustained msg/s
 - [2026-03-26T16:49:32Z] refactor(pipeline): extract non-blocking work-stealing threadpool
 - [2026-03-26T17:07:05Z] feat(metrics): export percentile latency histograms for internal RPCs
+
+
+### Sprint Milestone: 2026-03-25 (Target Tier 2)
+- [2026-03-25T04:39:18Z] fix(gc): eliminate root reference leak in transient session context
+- [2026-03-25T05:18:04Z] perf(dispatch): replace dynamic lookup table with computed branch table
+- [2026-03-25T06:07:34Z] test(fuzz): add property-based fuzz testing for protobuf frame parser
+- [2026-03-25T08:28:48Z] feat(routing): add weighted least-connections balancer with health probing
+- [2026-03-25T09:26:12Z] refactor(buffer): optimize zero-copy ring buffer with memory barrier fences
+- [2026-03-25T11:17:34Z] fix(timeout): decouple deadline cancellation from synchronous cleanup hook
+- [2026-03-25T12:08:18Z] feat(engine): add vectorized SIMD kernel for dot product calculation
+- [2026-03-25T13:50:03Z] perf(cache): implement adaptive two-queue eviction algorithm
+- [2026-03-25T15:33:31Z] test(concurrency): stress-test actor mailbox under 50k sustained msg/s
+- [2026-03-25T16:08:37Z] refactor(pipeline): extract non-blocking work-stealing threadpool
