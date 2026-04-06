@@ -429,3 +429,16 @@
 - [2026-04-08T15:40:05Z] refactor(buffer): optimize zero-copy ring buffer with memory barrier fences
 - [2026-04-08T16:51:33Z] fix(timeout): decouple deadline cancellation from synchronous cleanup hook
 - [2026-04-08T17:30:43Z] feat(engine): add vectorized SIMD kernel for dot product calculation
+
+
+### Sprint Milestone: 2026-04-06 (Target Tier 2)
+- [2026-04-06T04:54:46Z] test(chaos): verify raft consensus under network partition and clock drift
+- [2026-04-06T05:11:22Z] perf(query): push down projection and filter predicates to parquet reader
+- [2026-04-06T06:08:04Z] refactor(wal): stream write-ahead log directly into memory mapped segment
+- [2026-04-06T08:48:21Z] feat(crypto): implement constant-time comparison for HMAC authentication
+- [2026-04-06T09:13:14Z] fix(gc): eliminate root reference leak in transient session context
+- [2026-04-06T11:47:43Z] perf(dispatch): replace dynamic lookup table with computed branch table
+- [2026-04-06T12:01:35Z] test(fuzz): add property-based fuzz testing for protobuf frame parser
+- [2026-04-06T13:07:49Z] feat(routing): add weighted least-connections balancer with health probing
+- [2026-04-06T15:43:40Z] refactor(buffer): optimize zero-copy ring buffer with memory barrier fences
+- [2026-04-06T16:32:01Z] fix(timeout): decouple deadline cancellation from synchronous cleanup hook
