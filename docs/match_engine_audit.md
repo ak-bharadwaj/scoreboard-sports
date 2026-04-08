@@ -408,3 +408,24 @@
 - [2026-03-25T13:50:03Z] perf(cache): implement adaptive two-queue eviction algorithm
 - [2026-03-25T15:33:31Z] test(concurrency): stress-test actor mailbox under 50k sustained msg/s
 - [2026-03-25T16:08:37Z] refactor(pipeline): extract non-blocking work-stealing threadpool
+
+
+### Sprint Milestone: 2026-04-08 (Target Tier 3)
+- [2026-04-08T04:35:37Z] perf(cache): implement adaptive two-queue eviction algorithm
+- [2026-04-08T04:03:33Z] test(concurrency): stress-test actor mailbox under 50k sustained msg/s
+- [2026-04-08T05:15:17Z] refactor(pipeline): extract non-blocking work-stealing threadpool
+- [2026-04-08T06:45:20Z] feat(metrics): export percentile latency histograms for internal RPCs
+- [2026-04-08T07:24:28Z] perf(alloc): replace dynamic heap allocations with arena bump allocator
+- [2026-04-08T07:32:27Z] fix(circuit-breaker): tune backoff exponential jitter to prevent thundering herd
+- [2026-04-08T08:40:32Z] feat(storage): implement append-only commit log with CRC32 checksums
+- [2026-04-08T09:54:34Z] test(chaos): verify raft consensus under network partition and clock drift
+- [2026-04-08T10:21:52Z] perf(query): push down projection and filter predicates to parquet reader
+- [2026-04-08T11:10:21Z] refactor(wal): stream write-ahead log directly into memory mapped segment
+- [2026-04-08T11:37:56Z] feat(crypto): implement constant-time comparison for HMAC authentication
+- [2026-04-08T12:27:57Z] fix(gc): eliminate root reference leak in transient session context
+- [2026-04-08T13:23:01Z] perf(dispatch): replace dynamic lookup table with computed branch table
+- [2026-04-08T14:19:28Z] test(fuzz): add property-based fuzz testing for protobuf frame parser
+- [2026-04-08T14:13:30Z] feat(routing): add weighted least-connections balancer with health probing
+- [2026-04-08T15:40:05Z] refactor(buffer): optimize zero-copy ring buffer with memory barrier fences
+- [2026-04-08T16:51:33Z] fix(timeout): decouple deadline cancellation from synchronous cleanup hook
+- [2026-04-08T17:30:43Z] feat(engine): add vectorized SIMD kernel for dot product calculation
