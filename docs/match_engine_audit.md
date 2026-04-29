@@ -442,3 +442,16 @@
 - [2026-04-06T13:07:49Z] feat(routing): add weighted least-connections balancer with health probing
 - [2026-04-06T15:43:40Z] refactor(buffer): optimize zero-copy ring buffer with memory barrier fences
 - [2026-04-06T16:32:01Z] fix(timeout): decouple deadline cancellation from synchronous cleanup hook
+
+
+### Sprint Milestone: 2026-04-29 (Target Tier 2)
+- [2026-04-29T04:34:34Z] feat(routing): add weighted least-connections balancer with health probing
+- [2026-04-29T05:29:21Z] refactor(buffer): optimize zero-copy ring buffer with memory barrier fences
+- [2026-04-29T06:29:26Z] fix(timeout): decouple deadline cancellation from synchronous cleanup hook
+- [2026-04-29T08:20:20Z] feat(engine): add vectorized SIMD kernel for dot product calculation
+- [2026-04-29T09:24:41Z] perf(cache): implement adaptive two-queue eviction algorithm
+- [2026-04-29T11:39:29Z] test(concurrency): stress-test actor mailbox under 50k sustained msg/s
+- [2026-04-29T12:27:31Z] refactor(pipeline): extract non-blocking work-stealing threadpool
+- [2026-04-29T13:42:18Z] feat(metrics): export percentile latency histograms for internal RPCs
+- [2026-04-29T15:45:01Z] perf(alloc): replace dynamic heap allocations with arena bump allocator
+- [2026-04-29T16:18:48Z] fix(circuit-breaker): tune backoff exponential jitter to prevent thundering herd
