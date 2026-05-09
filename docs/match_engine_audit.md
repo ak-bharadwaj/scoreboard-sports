@@ -125,3 +125,4 @@
 - [2026-05-09T11:23:47Z] test(boundary): fuzz input validation for malformed network frames
 - [2026-05-09T12:04:06Z] feat(guard): implement token bucket rate limiter with sliding window
 - [2026-05-09T12:02:24Z] test(concurrency): add high-load stress harness for race conditions
+- [2026-05-09T13:54:08Z] refactor(telemetry): introduce zero-copy memory ring buffer
