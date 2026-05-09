@@ -111,3 +111,4 @@
 - [2026-09-09T12:52:30Z] perf(frontend): memoize tournament bracket SVG render tree
 - [2026-09-09T15:13:42Z] refactor(socket): structure live event packet serialization
 - [2026-05-09T04:57:03Z] feat(metrics): track p99 tail latency across service boundary
+- [2026-05-09T04:12:54Z] test(boundary): fuzz input validation for malformed network frames
