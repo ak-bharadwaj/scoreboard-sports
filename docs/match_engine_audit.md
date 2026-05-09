@@ -110,3 +110,4 @@
 - [2026-09-09T08:39:23Z] fix(auth): handle expired spectator token refresh without dropping score feed
 - [2026-09-09T12:52:30Z] perf(frontend): memoize tournament bracket SVG render tree
 - [2026-09-09T15:13:42Z] refactor(socket): structure live event packet serialization
+- [2026-05-09T04:57:03Z] feat(metrics): track p99 tail latency across service boundary
