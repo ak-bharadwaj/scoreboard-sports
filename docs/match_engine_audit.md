@@ -141,3 +141,4 @@
 - [2026-05-10T06:48:52Z] perf(indexing): optimize compound B-tree index for query latency
 - [2026-05-10T07:26:46Z] perf(kernel): vectorize sparse matrix multiplication for similarity lookup
 - [2026-05-10T07:58:51Z] refactor(pipeline): decouple async ingestion workers from event loop
+- [2026-05-10T08:31:53Z] test(boundary): fuzz input validation for malformed network frames
