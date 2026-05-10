@@ -155,3 +155,4 @@
 - [2026-05-10T13:26:44Z] fix(drift): clamp seasonal baseline drift in anomaly detector
 - [2026-05-10T13:12:31Z] feat(metrics): track p99 tail latency across service boundary
 - [2026-05-10T13:35:36Z] test(boundary): fuzz input validation for malformed network frames
+- [2026-05-10T14:18:42Z] feat(guard): implement token bucket rate limiter with sliding window
