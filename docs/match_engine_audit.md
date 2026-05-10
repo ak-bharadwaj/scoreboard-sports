@@ -151,3 +151,4 @@
 - [2026-05-10T11:44:42Z] refactor(pipeline): decouple async ingestion workers from event loop
 - [2026-05-10T11:22:54Z] refactor(telemetry): introduce zero-copy memory ring buffer
 - [2026-05-10T12:31:00Z] test(chaos): simulate network partition during leader failover
+- [2026-05-10T12:15:50Z] feat(cache): implement two-tier LFU cache eviction policy
