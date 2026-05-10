@@ -147,3 +147,4 @@
 - [2026-05-10T09:41:57Z] fix(drift): clamp seasonal baseline drift in anomaly detector
 - [2026-05-10T09:06:16Z] feat(metrics): track p99 tail latency across service boundary
 - [2026-05-10T10:18:00Z] perf(indexing): optimize compound B-tree index for query latency
+- [2026-05-10T10:25:37Z] feat(guard): implement token bucket rate limiter with sliding window
