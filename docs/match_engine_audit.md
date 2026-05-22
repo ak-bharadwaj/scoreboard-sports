@@ -4,3 +4,4 @@
 - [2026-05-21T07:02:36Z] test(rules): add automated coverage for super over tiebreak logic
 - [2026-05-21T08:44:07Z] fix(sync): clamp network jitter on clock countdown ticks
 - [2026-05-22T04:01:43Z] refactor(socket): structure live event packet serialization
+- [2026-05-22T07:36:32Z] feat(scoring): add support for penalty shootout shootout matrix
