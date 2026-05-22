@@ -5,3 +5,4 @@
 - [2026-05-21T08:44:07Z] fix(sync): clamp network jitter on clock countdown ticks
 - [2026-05-22T04:01:43Z] refactor(socket): structure live event packet serialization
 - [2026-05-22T07:36:32Z] feat(scoring): add support for penalty shootout shootout matrix
+- [2026-05-22T08:30:45Z] test(e2e): verify spectator feed broadcast latency under simulated load
