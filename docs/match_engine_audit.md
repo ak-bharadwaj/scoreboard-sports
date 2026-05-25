@@ -7,3 +7,4 @@
 - [2026-05-22T07:36:32Z] feat(scoring): add support for penalty shootout shootout matrix
 - [2026-05-22T08:30:45Z] test(e2e): verify spectator feed broadcast latency under simulated load
 - [2026-05-22T12:40:09Z] fix(auth): handle expired spectator token refresh without dropping score feed
+- [2026-05-25T04:34:00Z] test(e2e): verify spectator feed broadcast latency under simulated load
