@@ -11,3 +11,4 @@
 - [2026-05-25T06:34:22Z] fix(auth): handle expired spectator token refresh without dropping score feed
 - [2026-05-25T08:26:06Z] perf(frontend): memoize tournament bracket SVG render tree
 - [2026-05-28T04:41:01Z] feat(backend): add optimistic locking to match state update transitions
+- [2026-05-28T07:02:07Z] test(rules): add automated coverage for super over tiebreak logic
