@@ -14,3 +14,4 @@
 - [2026-05-28T07:02:07Z] test(rules): add automated coverage for super over tiebreak logic
 - [2026-05-30T05:10:17Z] test(rules): add automated coverage for super over tiebreak logic
 - [2026-05-30T06:28:18Z] fix(sync): clamp network jitter on clock countdown ticks
+- [2026-05-30T09:48:02Z] ui(scoreboard): adjust high-contrast score font metrics for outdoor visibility
