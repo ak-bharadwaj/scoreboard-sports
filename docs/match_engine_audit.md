@@ -12,3 +12,4 @@
 - [2026-05-25T08:26:06Z] perf(frontend): memoize tournament bracket SVG render tree
 - [2026-05-28T04:41:01Z] feat(backend): add optimistic locking to match state update transitions
 - [2026-05-28T07:02:07Z] test(rules): add automated coverage for super over tiebreak logic
+- [2026-05-30T05:10:17Z] test(rules): add automated coverage for super over tiebreak logic
