@@ -16,3 +16,4 @@
 - [2026-05-30T06:28:18Z] fix(sync): clamp network jitter on clock countdown ticks
 - [2026-05-30T09:48:02Z] ui(scoreboard): adjust high-contrast score font metrics for outdoor visibility
 - [2026-06-02T05:05:32Z] feat(scoring): add support for penalty shootout shootout matrix
+- [2026-06-02T07:35:14Z] test(e2e): verify spectator feed broadcast latency under simulated load
