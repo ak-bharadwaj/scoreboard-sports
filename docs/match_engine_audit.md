@@ -23,3 +23,4 @@
 - [2026-06-04T08:46:09Z] test(rules): add automated coverage for super over tiebreak logic
 - [2026-06-05T04:55:56Z] perf(frontend): memoize tournament bracket SVG render tree
 - [2026-06-05T06:37:22Z] refactor(socket): structure live event packet serialization
+- [2026-06-05T08:18:45Z] feat(scoring): add support for penalty shootout shootout matrix
