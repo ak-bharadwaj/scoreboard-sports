@@ -29,3 +29,4 @@
 - [2026-06-15T06:48:09Z] test(e2e): verify spectator feed broadcast latency under simulated load
 - [2026-06-15T09:15:15Z] fix(auth): handle expired spectator token refresh without dropping score feed
 - [2026-06-18T05:52:43Z] docs(deploy): add production websocket clustering notes
+- [2026-06-18T07:42:33Z] feat(backend): add optimistic locking to match state update transitions
