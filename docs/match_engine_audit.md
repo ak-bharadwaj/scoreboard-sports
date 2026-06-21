@@ -32,3 +32,4 @@
 - [2026-06-18T07:42:33Z] feat(backend): add optimistic locking to match state update transitions
 - [2026-06-18T09:33:44Z] test(rules): add automated coverage for super over tiebreak logic
 - [2026-06-21T04:38:54Z] perf(frontend): memoize tournament bracket SVG render tree
+- [2026-06-21T06:20:10Z] refactor(socket): structure live event packet serialization
