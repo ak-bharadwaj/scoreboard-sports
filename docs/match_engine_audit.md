@@ -33,3 +33,4 @@
 - [2026-06-18T09:33:44Z] test(rules): add automated coverage for super over tiebreak logic
 - [2026-06-21T04:38:54Z] perf(frontend): memoize tournament bracket SVG render tree
 - [2026-06-21T06:20:10Z] refactor(socket): structure live event packet serialization
+- [2026-06-23T04:11:29Z] refactor(socket): structure live event packet serialization
