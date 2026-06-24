@@ -38,3 +38,4 @@
 - [2026-06-23T08:34:29Z] test(e2e): verify spectator feed broadcast latency under simulated load
 - [2026-06-24T05:22:43Z] ui(scoreboard): adjust high-contrast score font metrics for outdoor visibility
 - [2026-06-24T06:41:15Z] docs(deploy): add production websocket clustering notes
+- [2026-06-24T09:41:44Z] feat(backend): add optimistic locking to match state update transitions
