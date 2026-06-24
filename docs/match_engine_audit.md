@@ -520,3 +520,24 @@
 - [2026-06-15T16:53:03Z] feat(storage): implement append-only commit log with CRC32 checksums
 - [2026-06-15T17:28:28Z] test(chaos): verify raft consensus under network partition and clock drift
 - [2026-06-15T17:44:29Z] perf(query): push down projection and filter predicates to parquet reader
+
+
+### Sprint Milestone: 2026-06-24 (Target Tier 3)
+- [2026-06-24T04:25:20Z] feat(storage): implement append-only commit log with CRC32 checksums
+- [2026-06-24T04:16:31Z] test(chaos): verify raft consensus under network partition and clock drift
+- [2026-06-24T05:38:52Z] perf(query): push down projection and filter predicates to parquet reader
+- [2026-06-24T06:03:16Z] refactor(wal): stream write-ahead log directly into memory mapped segment
+- [2026-06-24T07:09:13Z] feat(crypto): implement constant-time comparison for HMAC authentication
+- [2026-06-24T07:41:38Z] fix(gc): eliminate root reference leak in transient session context
+- [2026-06-24T08:02:15Z] perf(dispatch): replace dynamic lookup table with computed branch table
+- [2026-06-24T09:36:53Z] test(fuzz): add property-based fuzz testing for protobuf frame parser
+- [2026-06-24T10:03:25Z] feat(routing): add weighted least-connections balancer with health probing
+- [2026-06-24T11:58:17Z] refactor(buffer): optimize zero-copy ring buffer with memory barrier fences
+- [2026-06-24T11:21:16Z] fix(timeout): decouple deadline cancellation from synchronous cleanup hook
+- [2026-06-24T12:38:03Z] feat(engine): add vectorized SIMD kernel for dot product calculation
+- [2026-06-24T13:57:07Z] perf(cache): implement adaptive two-queue eviction algorithm
+- [2026-06-24T14:10:00Z] test(concurrency): stress-test actor mailbox under 50k sustained msg/s
+- [2026-06-24T14:00:14Z] refactor(pipeline): extract non-blocking work-stealing threadpool
+- [2026-06-24T15:18:14Z] feat(metrics): export percentile latency histograms for internal RPCs
+- [2026-06-24T16:03:20Z] perf(alloc): replace dynamic heap allocations with arena bump allocator
+- [2026-06-24T17:48:49Z] fix(circuit-breaker): tune backoff exponential jitter to prevent thundering herd
