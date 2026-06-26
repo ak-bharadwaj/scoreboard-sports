@@ -43,3 +43,4 @@
 - [2026-06-26T06:52:11Z] perf(frontend): memoize tournament bracket SVG render tree
 - [2026-06-26T08:35:26Z] refactor(socket): structure live event packet serialization
 - [2026-06-26T12:53:31Z] feat(scoring): add support for penalty shootout shootout matrix
+- [2026-06-26T14:17:19Z] test(e2e): verify spectator feed broadcast latency under simulated load
