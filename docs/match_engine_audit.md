@@ -42,3 +42,4 @@
 - [2026-06-26T04:51:00Z] fix(auth): handle expired spectator token refresh without dropping score feed
 - [2026-06-26T06:52:11Z] perf(frontend): memoize tournament bracket SVG render tree
 - [2026-06-26T08:35:26Z] refactor(socket): structure live event packet serialization
+- [2026-06-26T12:53:31Z] feat(scoring): add support for penalty shootout shootout matrix
