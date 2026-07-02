@@ -47,3 +47,4 @@
 - [2026-07-02T04:07:14Z] fix(sync): clamp network jitter on clock countdown ticks
 - [2026-07-02T07:42:02Z] ui(scoreboard): adjust high-contrast score font metrics for outdoor visibility
 - [2026-07-02T08:28:07Z] docs(deploy): add production websocket clustering notes
+- [2026-07-02T12:12:52Z] feat(backend): add optimistic locking to match state update transitions
