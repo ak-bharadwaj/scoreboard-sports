@@ -49,3 +49,4 @@
 - [2026-07-02T08:28:07Z] docs(deploy): add production websocket clustering notes
 - [2026-07-02T12:12:52Z] feat(backend): add optimistic locking to match state update transitions
 - [2026-07-05T04:01:46Z] docs(deploy): add production websocket clustering notes
+- [2026-07-05T06:57:57Z] feat(backend): add optimistic locking to match state update transitions
