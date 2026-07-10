@@ -59,3 +59,4 @@
 - [2026-07-08T04:41:00Z] ui(scoreboard): adjust high-contrast score font metrics for outdoor visibility
 - [2026-07-08T06:57:32Z] docs(deploy): add production websocket clustering notes
 - [2026-07-10T05:25:19Z] docs(deploy): add production websocket clustering notes
+- [2026-07-10T07:32:08Z] feat(backend): add optimistic locking to match state update transitions
