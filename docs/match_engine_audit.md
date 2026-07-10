@@ -60,3 +60,4 @@
 - [2026-07-08T06:57:32Z] docs(deploy): add production websocket clustering notes
 - [2026-07-10T05:25:19Z] docs(deploy): add production websocket clustering notes
 - [2026-07-10T07:32:08Z] feat(backend): add optimistic locking to match state update transitions
+- [2026-07-10T09:40:32Z] test(rules): add automated coverage for super over tiebreak logic
