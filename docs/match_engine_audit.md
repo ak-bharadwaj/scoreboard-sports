@@ -65,3 +65,4 @@
 - [2026-07-10T14:10:43Z] ui(scoreboard): adjust high-contrast score font metrics for outdoor visibility
 - [2026-07-13T04:04:14Z] refactor(socket): structure live event packet serialization
 - [2026-07-13T06:01:34Z] feat(scoring): add support for penalty shootout shootout matrix
+- [2026-07-13T08:06:42Z] test(e2e): verify spectator feed broadcast latency under simulated load
