@@ -64,3 +64,4 @@
 - [2026-07-10T12:15:36Z] fix(sync): clamp network jitter on clock countdown ticks
 - [2026-07-10T14:10:43Z] ui(scoreboard): adjust high-contrast score font metrics for outdoor visibility
 - [2026-07-13T04:04:14Z] refactor(socket): structure live event packet serialization
+- [2026-07-13T06:01:34Z] feat(scoring): add support for penalty shootout shootout matrix
