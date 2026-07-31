@@ -70,3 +70,4 @@
 - [2026-07-25T06:27:21Z] docs(deploy): add production websocket clustering notes
 - [2026-07-25T08:58:56Z] feat(backend): add optimistic locking to match state update transitions
 - [2026-07-31T05:09:52Z] fix(auth): handle expired spectator token refresh without dropping score feed
+- [2026-07-31T06:25:50Z] perf(frontend): memoize tournament bracket SVG render tree
