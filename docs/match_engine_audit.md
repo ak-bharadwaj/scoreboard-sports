@@ -73,3 +73,4 @@
 - [2026-07-31T06:25:50Z] perf(frontend): memoize tournament bracket SVG render tree
 - [2026-08-01T05:42:18Z] perf(frontend): memoize tournament bracket SVG render tree
 - [2026-08-01T07:24:06Z] refactor(socket): structure live event packet serialization
+- [2026-08-01T08:08:57Z] feat(scoring): add support for penalty shootout shootout matrix
