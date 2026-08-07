@@ -79,3 +79,4 @@
 - [2026-08-06T08:07:05Z] docs(deploy): add production websocket clustering notes
 - [2026-08-07T05:34:23Z] test(e2e): verify spectator feed broadcast latency under simulated load
 - [2026-08-07T07:01:56Z] fix(auth): handle expired spectator token refresh without dropping score feed
+- [2026-08-07T08:20:35Z] perf(frontend): memoize tournament bracket SVG render tree
