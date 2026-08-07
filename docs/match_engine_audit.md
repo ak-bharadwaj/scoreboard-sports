@@ -78,3 +78,4 @@
 - [2026-08-06T06:38:18Z] ui(scoreboard): adjust high-contrast score font metrics for outdoor visibility
 - [2026-08-06T08:07:05Z] docs(deploy): add production websocket clustering notes
 - [2026-08-07T05:34:23Z] test(e2e): verify spectator feed broadcast latency under simulated load
+- [2026-08-07T07:01:56Z] fix(auth): handle expired spectator token refresh without dropping score feed
