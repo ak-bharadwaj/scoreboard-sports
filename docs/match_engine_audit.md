@@ -88,3 +88,4 @@
 - [2026-08-16T14:22:01Z] fix(auth): handle expired spectator token refresh without dropping score feed
 - [2026-08-19T05:43:28Z] ui(scoreboard): adjust high-contrast score font metrics for outdoor visibility
 - [2026-08-19T06:38:54Z] docs(deploy): add production websocket clustering notes
+- [2026-08-19T08:30:17Z] feat(backend): add optimistic locking to match state update transitions
