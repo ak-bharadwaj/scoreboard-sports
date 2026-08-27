@@ -96,3 +96,4 @@
 - [2026-08-27T04:32:05Z] refactor(socket): structure live event packet serialization
 - [2026-08-27T07:36:49Z] feat(scoring): add support for penalty shootout shootout matrix
 - [2026-08-27T08:15:04Z] test(e2e): verify spectator feed broadcast latency under simulated load
+- [2026-08-27T12:30:38Z] fix(auth): handle expired spectator token refresh without dropping score feed
