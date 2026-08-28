@@ -99,3 +99,4 @@
 - [2026-08-27T12:30:38Z] fix(auth): handle expired spectator token refresh without dropping score feed
 - [2026-08-27T14:09:28Z] perf(frontend): memoize tournament bracket SVG render tree
 - [2026-08-28T05:55:20Z] docs(deploy): add production websocket clustering notes
+- [2026-08-28T06:51:57Z] feat(backend): add optimistic locking to match state update transitions
