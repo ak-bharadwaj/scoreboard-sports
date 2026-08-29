@@ -102,3 +102,4 @@
 - [2026-08-28T06:51:57Z] feat(backend): add optimistic locking to match state update transitions
 - [2026-08-29T05:35:33Z] feat(backend): add optimistic locking to match state update transitions
 - [2026-08-29T07:15:56Z] test(rules): add automated coverage for super over tiebreak logic
+- [2026-08-29T08:08:45Z] fix(sync): clamp network jitter on clock countdown ticks
