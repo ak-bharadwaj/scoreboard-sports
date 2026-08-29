@@ -100,3 +100,4 @@
 - [2026-08-27T14:09:28Z] perf(frontend): memoize tournament bracket SVG render tree
 - [2026-08-28T05:55:20Z] docs(deploy): add production websocket clustering notes
 - [2026-08-28T06:51:57Z] feat(backend): add optimistic locking to match state update transitions
+- [2026-08-29T05:35:33Z] feat(backend): add optimistic locking to match state update transitions
