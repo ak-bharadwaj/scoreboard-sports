@@ -105,3 +105,4 @@
 - [2026-08-29T08:08:45Z] fix(sync): clamp network jitter on clock countdown ticks
 - [2026-09-07T05:25:03Z] refactor(socket): structure live event packet serialization
 - [2026-09-07T07:27:12Z] feat(scoring): add support for penalty shootout shootout matrix
+- [2026-09-09T04:07:53Z] feat(scoring): add support for penalty shootout shootout matrix
