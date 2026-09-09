@@ -109,3 +109,4 @@
 - [2026-09-09T06:12:00Z] test(e2e): verify spectator feed broadcast latency under simulated load
 - [2026-09-09T08:39:23Z] fix(auth): handle expired spectator token refresh without dropping score feed
 - [2026-09-09T12:52:30Z] perf(frontend): memoize tournament bracket SVG render tree
+- [2026-09-09T15:13:42Z] refactor(socket): structure live event packet serialization
