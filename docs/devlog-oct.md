@@ -4,3 +4,4 @@
 - [2026-10-04 10:39] feat: implement graceful shutdown hook
 - [2026-10-04 18:03] fix: prevent race condition in cache
 - [2026-10-06 18:46] docs: add troubleshooting FAQ
+- [2026-10-06 10:37] refactor: decompose monolithic handler
