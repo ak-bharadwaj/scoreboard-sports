@@ -5,3 +5,4 @@
 - [2026-10-04 18:03] fix: prevent race condition in cache
 - [2026-10-06 18:46] docs: add troubleshooting FAQ
 - [2026-10-06 10:37] refactor: decompose monolithic handler
+- [2026-10-06 20:48] docs: document retry mechanism
