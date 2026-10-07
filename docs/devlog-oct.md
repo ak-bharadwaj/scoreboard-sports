@@ -6,3 +6,4 @@
 - [2026-10-06 18:46] docs: add troubleshooting FAQ
 - [2026-10-06 10:37] refactor: decompose monolithic handler
 - [2026-10-06 20:48] docs: document retry mechanism
+- [2026-10-07 14:11] chore: align code style with linter
