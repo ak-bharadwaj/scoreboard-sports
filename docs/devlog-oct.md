@@ -8,3 +8,4 @@
 - [2026-10-06 20:48] docs: document retry mechanism
 - [2026-10-07 14:11] chore: align code style with linter
 - [2026-10-08 19:48] refactor: decouple service dependencies
+- [2026-10-08 12:41] docs: update technical specification
