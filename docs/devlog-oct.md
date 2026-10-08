@@ -9,3 +9,4 @@
 - [2026-10-07 14:11] chore: align code style with linter
 - [2026-10-08 19:48] refactor: decouple service dependencies
 - [2026-10-08 12:41] docs: update technical specification
+- [2026-10-08 08:47] chore: normalize import ordering
