@@ -12,3 +12,4 @@
 - [2026-10-08 08:47] chore: normalize import ordering
 - [2026-10-08 18:42] test: validate concurrent access patterns
 - [2026-10-08 09:42] chore: align code style with linter
+- [2026-10-09 17:53] refactor: improve query performance
