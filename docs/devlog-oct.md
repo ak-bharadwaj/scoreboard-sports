@@ -13,3 +13,4 @@
 - [2026-10-08 18:42] test: validate concurrent access patterns
 - [2026-10-08 09:42] chore: align code style with linter
 - [2026-10-09 17:53] refactor: improve query performance
+- [2026-10-10 12:01] fix: resolve memory leak in worker
