@@ -15,3 +15,4 @@
 - [2026-10-09 17:53] refactor: improve query performance
 - [2026-10-10 12:01] fix: resolve memory leak in worker
 - [2026-10-10 09:45] feat: add error boundary handling
+- [2026-10-12 14:13] docs: update deployment runbook
