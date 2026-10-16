@@ -23,3 +23,4 @@
 - [2026-10-14 10:27] docs: add architecture decision record
 - [2026-10-15 17:47] fix: correct timezone handling
 - [2026-10-16 09:30] fix: resolve memory leak in worker
+- [2026-10-16 20:30] feat: add error boundary handling
