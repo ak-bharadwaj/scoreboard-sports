@@ -25,3 +25,4 @@
 - [2026-10-16 09:30] fix: resolve memory leak in worker
 - [2026-10-16 20:30] feat: add error boundary handling
 - [2026-10-16 10:44] fix: handle null pointer in serializer
+- [2026-10-17 16:19] chore: remove unused feature flags
