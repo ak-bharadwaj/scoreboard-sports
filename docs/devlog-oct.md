@@ -27,3 +27,4 @@
 - [2026-10-16 10:44] fix: handle null pointer in serializer
 - [2026-10-17 16:19] chore: remove unused feature flags
 - [2026-10-18 11:56] fix: correct timezone handling
+- [2026-10-18 12:40] feat: add structured logging
