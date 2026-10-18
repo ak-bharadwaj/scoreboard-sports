@@ -28,3 +28,4 @@
 - [2026-10-17 16:19] chore: remove unused feature flags
 - [2026-10-18 11:56] fix: correct timezone handling
 - [2026-10-18 12:40] feat: add structured logging
+- [2026-10-18 21:42] fix: resolve edge case in validation layer
