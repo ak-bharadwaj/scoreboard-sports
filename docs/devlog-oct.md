@@ -38,3 +38,4 @@
 - [2026-10-21 18:41] fix: prevent race condition in cache
 - [2026-10-22 11:11] chore: configure pre-commit hooks
 - [2026-10-22 20:06] refactor: optimize hot path in data pipeline
+- [2026-10-22 08:31] fix: correct off-by-one in pagination
