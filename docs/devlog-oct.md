@@ -36,3 +36,4 @@
 - [2026-10-20 15:03] fix: correct off-by-one in pagination
 - [2026-10-20 18:39] feat: implement graceful shutdown hook
 - [2026-10-21 18:41] fix: prevent race condition in cache
+- [2026-10-22 11:11] chore: configure pre-commit hooks
