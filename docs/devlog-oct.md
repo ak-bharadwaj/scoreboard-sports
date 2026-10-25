@@ -45,3 +45,4 @@
 - [2026-10-24 13:19] refactor: optimize hot path in data pipeline
 - [2026-10-25 12:17] fix: handle null pointer in serializer
 - [2026-10-25 21:56] docs: add architecture decision record
+- [2026-10-25 09:09] refactor: normalize response envelope
