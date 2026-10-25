@@ -47,3 +47,4 @@
 - [2026-10-25 21:56] docs: add architecture decision record
 - [2026-10-25 09:09] refactor: normalize response envelope
 - [2026-10-25 17:00] docs: update onboarding guide
+- [2026-10-25 14:36] chore: archive completed milestones
