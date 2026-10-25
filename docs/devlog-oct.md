@@ -43,3 +43,4 @@
 - [2026-10-22 16:10] fix: prevent race condition in cache
 - [2026-10-24 18:45] chore: configure pre-commit hooks
 - [2026-10-24 13:19] refactor: optimize hot path in data pipeline
+- [2026-10-25 12:17] fix: handle null pointer in serializer
