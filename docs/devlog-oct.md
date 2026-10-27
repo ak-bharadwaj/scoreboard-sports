@@ -50,3 +50,4 @@
 - [2026-10-25 14:36] chore: archive completed milestones
 - [2026-10-25 11:13] test: add coverage for boundary conditions
 - [2026-10-26 19:34] test: validate concurrent access patterns
+- [2026-10-27 14:18] test: add regression test for #142
