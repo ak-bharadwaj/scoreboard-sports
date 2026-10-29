@@ -53,3 +53,4 @@
 - [2026-10-27 14:18] test: add regression test for #142
 - [2026-10-27 19:58] chore: configure pre-commit hooks
 - [2026-10-29 15:36] fix: resolve edge case in validation layer
+- [2026-10-29 10:11] docs: clarify configuration parameters
