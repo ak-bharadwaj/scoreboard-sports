@@ -55,3 +55,4 @@
 - [2026-10-29 15:36] fix: resolve edge case in validation layer
 - [2026-10-29 10:11] docs: clarify configuration parameters
 - [2026-10-29 16:00] refactor: simplify state transition logic
+- [2026-10-30 20:05] test: add regression test for #142
