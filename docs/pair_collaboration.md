@@ -3,3 +3,4 @@
 - [2026-10-31T14:04:36.863Z] test(sync): add race condition assertions for dual match updates
 - [2026-10-31T14:04:37.249Z] feat(ui): enhance mobile landscape viewport scaling
 - [2026-10-31T14:04:37.608Z] fix(clock): sync spectator timer drift during network reconnect
+- [2026-10-31T14:04:37.957Z] feat(analytics): compute real-time point differentials
