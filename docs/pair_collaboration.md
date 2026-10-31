@@ -8,3 +8,4 @@
 - [2026-10-31T14:04:38.645Z] test(rules): add tiebreak edge cases to test suite
 - [2026-10-31T14:04:38.989Z] docs(architecture): document websocket state broadcast packet format
 - [2026-10-31T14:04:39.331Z] feat(telemetry): track connection latency percentiles
+- [2026-10-31T14:04:39.665Z] refactor(events): streamline penalty score notification handlers
