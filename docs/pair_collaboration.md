@@ -6,3 +6,4 @@
 - [2026-10-31T14:04:37.957Z] feat(analytics): compute real-time point differentials
 - [2026-10-31T14:04:38.311Z] perf(render): memoize team roster badge layout components
 - [2026-10-31T14:04:38.645Z] test(rules): add tiebreak edge cases to test suite
+- [2026-10-31T14:04:38.989Z] docs(architecture): document websocket state broadcast packet format
