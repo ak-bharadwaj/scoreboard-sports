@@ -1,3 +1,4 @@
 - [2026-10-31T14:04:36.080Z] refactor(scoreboard): extract tournament schedule state management
 - [2026-10-31T14:04:36.492Z] perf(engine): optimize bracket tree node depth calculations
 - [2026-10-31T14:04:36.863Z] test(sync): add race condition assertions for dual match updates
+- [2026-10-31T14:04:37.249Z] feat(ui): enhance mobile landscape viewport scaling
