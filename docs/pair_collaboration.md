@@ -1,0 +1,1 @@
+- [2026-10-31T14:04:36.080Z] refactor(scoreboard): extract tournament schedule state management
