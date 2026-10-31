@@ -1,0 +1,3 @@
+docs: document contribution guidelines and workflow standards
+
+Co-authored-by: octocat <octocat@users.noreply.github.com>
