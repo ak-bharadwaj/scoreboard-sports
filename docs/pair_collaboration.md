@@ -4,3 +4,4 @@
 - [2026-10-31T14:04:37.249Z] feat(ui): enhance mobile landscape viewport scaling
 - [2026-10-31T14:04:37.608Z] fix(clock): sync spectator timer drift during network reconnect
 - [2026-10-31T14:04:37.957Z] feat(analytics): compute real-time point differentials
+- [2026-10-31T14:04:38.311Z] perf(render): memoize team roster badge layout components
